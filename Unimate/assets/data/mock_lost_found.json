@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "id": "lf_1",
+      "reporterId": "user_7",
+      "reporterName": "Zainab Hassan",
+      "reporterImage": "https://i.pravatar.cc/150?img=6",
+      "title": "Lost: Blue Backpack with Laptop",
+      "description": "Lost a blue backpack containing Dell laptop, notebooks, and keys. Last seen near library on Jan 23.",
+      "location": "Near Library Building",
+      "itemDate": "2026-01-23T15:00:00Z",
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500"
+      ],
+      "type": "lost",
+      "isResolved": false,
+      "createdAt": "2026-01-23T16:30:00Z",
+      "resolvedBy": null
+    },
+    {
+      "id": "lf_2",
+      "reporterId": "user_8",
+      "reporterName": "Muhammad Ali",
+      "reporterImage": "https://i.pravatar.cc/150?img=7",
+      "title": "Found: Student ID Card",
+      "description": "Found a student ID card near cafeteria. The name on the card is visible.",
+      "location": "Cafeteria",
+      "itemDate": "2026-01-24T12:00:00Z",
+      "imageUrls": [],
+      "type": "found",
+      "isResolved": true,
+      "createdAt": "2026-01-24T13:00:00Z",
+      "resolvedBy": "user_1"
+    },
+    {
+      "id": "lf_3",
+      "reporterId": "user_9",
+      "reporterName": "Sara Khan",
+      "reporterImage": "https://i.pravatar.cc/150?img=8",
+      "title": "Lost: Blue Water Bottle",
+      "description": "Lost my favorite blue water bottle. Has my name written on it. Very important to me!",
+      "location": "Sports Complex",
+      "itemDate": "2026-01-25T11:00:00Z",
+      "imageUrls": [],
+      "type": "lost",
+      "isResolved": false,
+      "createdAt": "2026-01-25T12:30:00Z",
+      "resolvedBy": null
+    },
+    {
+      "id": "lf_4",
+      "reporterId": "user_10",
+      "reporterName": "Ahmed Khan",
+      "reporterImage": "https://i.pravatar.cc/150?img=9",
+      "title": "Found: Car Keys",
+      "description": "Found a set of car keys with a BMW keychain at the parking lot.",
+      "location": "Parking Lot",
+      "itemDate": "2026-01-25T10:15:00Z",
+      "imageUrls": [],
+      "type": "found",
+      "isResolved": false,
+      "createdAt": "2026-01-25T11:00:00Z",
+      "resolvedBy": null
+    }
+  ]
+}
