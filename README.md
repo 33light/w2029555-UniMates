@@ -49,7 +49,7 @@ To run this project locally, you need:
 ## Installation and Running the Project
 
 ### Step 1 – Clone Repository
-git clone YOUR_GITHUB_LINK_HERE
+https://github.com/33light/w2029555-UniMates/tree/master
 
 ### Step 2 – Navigate Into Project Folder
 cd UniMates-FYP
