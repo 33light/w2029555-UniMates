@@ -1,5 +1,8 @@
 # UniMates – Final Year Project
 
+here is the prototype release (apk) link:
+https://github.com/33light/w2029555-UniMates/releases/tag/v1.0
+
 ## Student Information
 Student Name: Sheikh Rahman  
 Module: 6COSC023W – Computer Science Final Project  
